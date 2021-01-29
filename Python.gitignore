@@ -51,6 +51,9 @@ coverage.xml
 .pytest_cache/
 cover/
 
+#key
+*.key
+
 # Translations
 *.mo
 *.pot
@@ -122,6 +125,8 @@ venv.bak/
 
 # mkdocs documentation
 /site
+
+#keys 
 
 # mypy
 .mypy_cache/
